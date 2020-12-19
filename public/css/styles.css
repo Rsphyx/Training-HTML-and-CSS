@@ -92,6 +92,11 @@ a:hover {
   padding: 20px 0;
 }
 
+.mountain{
+  width: 100%;
+  
+}
+
 .top-cloud {
   position: absolute;
   right: 300px;
